@@ -23,7 +23,7 @@ file system.
 
 ## How To Contribute
 
-You cant :).
+Please fork this repository and then issue Pull Request.
 
 ### Copyright
 
