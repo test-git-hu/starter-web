@@ -24,3 +24,7 @@ file system.
 ## How To Contribute
 
 You cant :).
+
+### Copyright
+
+Git.Training.
